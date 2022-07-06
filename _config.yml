@@ -99,13 +99,13 @@ comments:
     issue_term:   # < url | pathname | title | ...>
   # Giscus options › https://giscus.app
   giscus:
-    repo: tired-o/tired-o.github.io            # <gh-username>/<repo>
-    repo_id: R_kgDOHmY_Gw
-    category: Announcements
-    category_id: DIC_kwDOHmY_G84CQDOE
+    repo:             # <gh-username>/<repo>
+    repo_id: 
+    category: 
+    category_id: 
     mapping:          # optional, default to 'pathname'
     input_position:   # optional, default to 'bottom'
-    lang: ko          # optional, default to the value of `site.lang`
+    lang:           # optional, default to the value of `site.lang`
 
 # Self-hosted static assets, optional › https://github.com/cotes2020/chirpy-static-assets
 assets:
