@@ -53,7 +53,7 @@ GitHub는 웹사이트를 개설할 수 있는 저장 공간과 주소를 제공
 
 **[GitHub](https://github.com/){:target="_blank"}**에서 <kbd>Sign up for GitHub</kbd>를 눌러 회원가입 절차를 시작합니다.
 
-![](/assets/img/2022-07-05/2022-07-05-github-blog-1-github_main.png)
+![](/assets/img/2022-07-05/2022-07-05-github-blog-1-github_main.png)*우주여행을 떠날 것만 같은 GitHub 메인*
 
 이메일과 비밀번호 등을 입력하고 나면 Launch code를 입력해야 합니다.
 
@@ -116,9 +116,9 @@ Receiving objects: 100% (3/3), done.
 
 로컬 Git에 새로운 파일을 만들어 보겠습니다. 폴더 안에 새 텍스트 파일을 만들고 **[Hello world](https://ko.wikipedia.org/wiki/%22Hello,_World!%22_%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%A8){:target="_blank"}**를 입력한 뒤 저장합니다. 파일명은 `Hello world.html`로 하겠습니다. 그리고 파일 확장자를 `txt`에서 `html`로 바꿔줍니다. 
 
-![](/assets/img/2022-07-05/2022-07-05-github-blog-1-create_html.png)
+![](/assets/img/2022-07-05/2022-07-05-github-blog-1-create_html.png)*확장명을 변경해도 사용할 수 있으니 바꿔주세요.* 
 
-확장명을 변경해도 사용할 수 있으니 바꿔주세요. 파일을 실행하면 웹브라우저에 Hello world가 떠있는 화면이 보입니다.
+파일을 실행하면 웹브라우저에 Hello world가 떠있는 화면이 보이실 겁니다.
 
 ## 5. GitHub에 수정사항 반영하기
 
@@ -171,7 +171,7 @@ info: please complete authentication in your browser...
 
 Authorization confirm을 위해 GitHub 비밀번호를 다시 입력하면 Authentication Succeeded 화면이 뜨고 명령 프롬프트에서도 업로드가 완료된 것을 확인하실 수 있습니다.
 
-![](/assets/img/2022-07-05/2022-07-05-github-blog-1-git_push_oauth_success.png)
+![](/assets/img/2022-07-05/2022-07-05-github-blog-1-git_push_oauth_success.png)*인증 완료 화면*
 
 ```console
 C:\Users\kiyun\ita-bility.github.io>git push
@@ -188,10 +188,11 @@ a17b2cb..af26d4c  main -> main
 
 GitHub 저장소에도 `Hello world.html` 파일이 추가된 것을 확인할 수 있습니다.
 
-![](/assets/img/2022-07-05/2022-07-05-github-blog-1-github_update.png)
+![](/assets/img/2022-07-05/2022-07-05-github-blog-1-github_update.png)*Hello world.html 파일이 "first commit" 메시지와 함께 추가됐네요.*
 
 # What's next
 이렇게 해서 GitHub에 저장 공간을 만들고, `USERNAME.github.io` 라는 주소를 갖는 블로그를 개설할 준비를 마쳤습니다. 다음 포스팅에서는 블로그에 적용할 테마를 찾아보고 적용하는 방법에 대해 소개해 드리겠습니다.
 
-# Footnote
+---
+
 [^1]: Custom domain을 적용한 경우 다를 수 있지만 `github.io` 형식을 그대로 사용하는 경우가 많으므로 이해를 돕고자 위와 같이 표현했습니다.
