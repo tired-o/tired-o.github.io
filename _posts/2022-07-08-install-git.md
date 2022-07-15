@@ -2,7 +2,7 @@
 title: Git 설치하기
 date: 2022-07-09 16:05:00 +0900
 categories: [Web, Git]
-tags: [vcs, 버전 관리 시스템, git, github, 리누스 토르발즈]
+tags: [VCS, 버전 관리, Git, GitHub, 리누스 토르발즈]
 ---
 
 > 본 포스팅에서는 아래 내용에 대해 소개합니다.

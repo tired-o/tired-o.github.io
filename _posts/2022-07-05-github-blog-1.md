@@ -3,7 +3,7 @@ title: Github 블로그 만들기 - 1. 시작하기
 date: 2022-07-05 21:25:00 +0900
 lastmod: 2022-07-09 16:45:00 +0900
 categories: [Web, GitHub blog]
-tags: [github, blog, github blog]
+tags: [GitHub, blog, GitHub blog]
 ---
 
 > 본 포스팅에서는 아래 내용에 대해 소개합니다.
