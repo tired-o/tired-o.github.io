@@ -121,4 +121,4 @@ tags: [빅데이터, 빅데이터 분석기사, 필기시험, 자격증, 빅분�
 
 ---
 
-[^1]: <hhttps://www.dataq.or.kr/www/sub/a_07.do>
+[^1]: <https://www.dataq.or.kr/www/sub/a_07.do>
